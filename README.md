@@ -1,2 +1,2 @@
 # calculadorajs
-# https://projlucasprates.github.io/calculadorajs
+# https://projlucasprates.github.io./calculadorajs
